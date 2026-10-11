@@ -1,6 +1,6 @@
-# DES424 HW4 - Git and AWS Amplify
+# DES424_6622782124
 
-This is a web application for DES424 Cloud-based Application Development.
+This is a test program for DES424 6622782124.
 
 ### Table of contents
 
